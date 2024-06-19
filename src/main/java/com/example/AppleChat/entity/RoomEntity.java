@@ -27,4 +27,6 @@ public class RoomEntity extends BaseEntity{
     @Column(nullable = false, length = 100)
     private String name;
 
+    //dz
+
 }
