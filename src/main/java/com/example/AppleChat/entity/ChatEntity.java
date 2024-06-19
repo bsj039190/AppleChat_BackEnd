@@ -35,5 +35,5 @@ public class ChatEntity {
     @Column(nullable = false)
     private boolean check; //상대가 읽었는지 여부
 
-    //TODO: 사진기능 추가할까? 말까?
+    //사진기능 추가할까? 말까?
 }
