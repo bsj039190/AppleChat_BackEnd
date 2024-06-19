@@ -25,6 +25,5 @@ public class AccountEntity extends BaseEntity {
 
     @Column(nullable = false, length = 100)
     private String pwd;
-    
-    //북마크에 있는거 보고 erd 아직 안함
+
 }
