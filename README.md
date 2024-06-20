@@ -1,3 +1,3 @@
 THIS IS APPLECHAT_BACKEND
 
-원인미상으로 빌드불가
+데이터베이스 설정이 아직 안돼서 빌드불가
