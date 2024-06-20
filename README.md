@@ -1,1 +1,3 @@
 THIS IS APPLECHAT_BACKEND
+
+원인미상으로 빌드불가
